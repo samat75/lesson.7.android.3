@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="clear">clear</string>
+    <string name="hybryd">hybryd</string>
+    <string name="polygon">polygon</string>
+    <string name="delete">delete</string>
+    <string name="save">save</string>
+    <string name="draw">draw</string>
+</resources>
